@@ -2,3 +2,4 @@
 repository for python studies 
 test test
 priny("heya")
+print2
